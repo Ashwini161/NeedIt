@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_short_discription" label="Short description" language="en" table="x_256866_innovate_inn_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_short_discription</element>
+            <help/>
+            <hint/>
+            <label>Short description</label>
+            <language>en</language>
+            <name>x_256866_innovate_inn_table</name>
+            <plural>Short descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-29 11:38:34</sys_created_on>
+            <sys_id>e96dbe96db231300b2581780399619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_package display_value="innovate" source="x_256866_innovate">c4a5b292db231300b2581780399619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="innovate">c4a5b292db231300b2581780399619ab</sys_scope>
+            <sys_update_name>sys_documentation_x_256866_innovate_inn_table_u_short_discription_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-29 11:38:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

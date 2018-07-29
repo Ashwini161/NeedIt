@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-29 11:13:38</sys_created_on>
+        <sys_id>4cb7b216db231300b2581780399619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_256866_innovate_inn_table.x_256866_innovate.inn_table_user</sys_name>
+        <sys_package display_value="innovate" source="x_256866_innovate">c4a5b292db231300b2581780399619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innovate">c4a5b292db231300b2581780399619ab</sys_scope>
+        <sys_security_acl display_value="x_256866_innovate_inn_table">44b7b216db231300b2581780399619ed</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cb7b216db231300b2581780399619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-29 11:13:38</sys_updated_on>
+        <sys_user_role display_value="x_256866_innovate.inn_table_user" name="x_256866_innovate.inn_table_user">f7a7be52db231300b25817803996190a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

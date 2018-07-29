@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="inn_table" max_length="40" name="x_256866_innovate_inn_table" type="collection">
+        <element label="Idea implemented" max_length="40" name="u_idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Short description" mandatory="true" max_length="40" name="u_short_discription" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>
